@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DaniloMendonca08_CP2_QA&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DaniloMendonca08_CP2_QA)
+
+
 # API de Consulta do IBGE
 
 Este projeto é uma simples aplicação Java que utiliza a API do IBGE para consultar informações sobre estados brasileiros.
