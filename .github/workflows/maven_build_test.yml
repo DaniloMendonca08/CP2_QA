@@ -27,7 +27,7 @@ jobs:
         run: mvn clean install
       
       - name: Run Tests and Generate Coverage Report  
-        run: mvn test verify
+        run: mvn verify
       
       - name: Upload JaCoCo Report  
         uses: actions/upload-artifact@v3
